@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Delete All Trash v1.3
+# Delete All Trash v1.3.1
 # 
 # Copyright (c) 2013 Danijel J
 # All rights reserved.
@@ -29,7 +29,7 @@
 # of the authors and should not be interpreted as representing official policies, 
 # either expressed or implied, of the FreeBSD Project.
 
-sudo rm -rf ~/.Trash/*
-sudo rm -rf ~/.Trashes/*
-sudo rm -rf /Volumes/*/.Trashes/*
-sudo rm -rf /Volumes/*/.Trash/*
+rm -rf ~/.Trash/*
+rm -rf ~/.Trashes/*
+rm -rf /Volumes/*/.Trashes/*
+rm -rf /Volumes/*/.Trash/*
