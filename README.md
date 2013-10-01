@@ -3,7 +3,8 @@ Delete All Trash
 
 **Version:** 1.3.1  
 **Licence:** BSD 2-clause  
-**Copyright:** DanijelJ (c) 2013
+**Copyright:** DanijelJ (c) 2013  
+**Website:** [http://danijelj.com/index.php/2013/08/delete-all-trash/](http://danijelj.com/index.php/2013/08/delete-all-trash/)
 
 ### Introduction
 Deletes everything in the Trash on Mac OS X when it is not allowing you to delete, even after a restart. Will delete everything from all connected hard drives.
