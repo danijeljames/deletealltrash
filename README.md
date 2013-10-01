@@ -1,7 +1,7 @@
 Delete All Trash
 ================
 
-**Version:** 1.3  
+**Version:** 1.3.1  
 **Licence:** BSD 2-clause  
 **Copyright:** DanijelJ (c) 2013
 
@@ -14,7 +14,7 @@ Requires sudo access in Terminal or Administrator password in Mac OS X.
 ### Usage
 Double-click the `Delete All Trash` Mac App or run the shell script `dat.sh` from Terminal.
 
-To run the script in Terminal, make it executable by `chmod +x dat.sh` first then `./dat.sh` __requires sudo access__.
+To run the script in Terminal, make it executable by `chmod +x dat.sh` first then `./dat.sh` _requires sudo access_.
 
 
 ### Updates
@@ -28,6 +28,7 @@ To run the script in Terminal, make it executable by `chmod +x dat.sh` first the
  3. Option to empty trash for all users
  4. Add switches to shell script
  5. Shell script to include built-in `man page`
+ 6. Get an icon for the application
 
 
 ### More Info
