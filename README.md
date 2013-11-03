@@ -36,3 +36,5 @@ To run the script in Terminal, make it executable by `chmod +x dat.sh` first the
 - You can contact me on twitter [@danijeljames](http://www.twitter.com/danijeljames) with hashtag [#dat](https://twitter.com/search?q=%23dat&src=typd)
 - Report all bugs/feature requests via [this link](https://github.com/danijeljames/deletealltrash/issues/new)
 - Anyone who wishes to take over this project may do so by contacting me via email [danijel.james [at] gmail.com](mailto:danijel.james@gmail.com)
+
+[![](http://mac.softpedia.com/base_img/softpedia_free_award_f.gif)](http://mac.softpedia.com/progClean/Delete-All-Trash-Clean-139185.html)
