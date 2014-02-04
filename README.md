@@ -38,3 +38,7 @@ To run the script in Terminal, make it executable by `chmod +x dat.sh` first the
 - Anyone who wishes to take over this project may do so by contacting me via email [danijel.james [at] gmail.com](mailto:danijel.james@gmail.com)
 
 [![](http://mac.softpedia.com/base_img/softpedia_free_award_f.gif)](http://mac.softpedia.com/progClean/Delete-All-Trash-Clean-139185.html)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danijeljames/deletealltrash/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
