@@ -1,9 +1,9 @@
 Delete All Trash
 ================
 
-**Version:** 1.3.1  
+**Version:** 1.3.2  
 **Licence:** BSD 2-clause  
-**Copyright:** DanijelJ (c) 2013  
+**Copyright:** Danijel James (c) 2013  
 ~~**Website:** [http://danijelj.com/index.php/2013/08/delete-all-trash/](http://danijelj.com/index.php/2013/08/delete-all-trash/)~~
 
 ### Introduction
@@ -20,7 +20,7 @@ To run the script in Terminal, make it executable by `chmod +x dat.sh` first the
 
 ### Updates
 - Included more volume trash directories
-- Added sudo to `dat.sh`
+- ~~Added sudo to `dat.sh`~~
 
 
 ### To-Do List
