@@ -29,7 +29,8 @@
 # of the authors and should not be interpreted as representing official policies, 
 # either expressed or implied, of the FreeBSD Project.
 
-rm -rf $HOME/.Trash/*
-rm -rf $HOME/.Trashes/*
-rm -rf /Volumes/*/.Trashes/*
-rm -rf /Volumes/*/.Trash/*
+sudo -v -p "Enter %'s admin password: "
+sudo rm -rf $HOME/.Trash/*
+sudo rm -rf $HOME/.Trashes/*
+sudo rm -rf /Volumes/*/.Trashes/*
+sudo rm -rf /Volumes/*/.Trash/*
